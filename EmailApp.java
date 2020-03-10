@@ -1,5 +1,8 @@
-package emailapp;
+package EmailApp;
 
-{public static void main(String[]args){
-// TODO Auto-generated method stub
-}}
+public class EmailApp {
+
+    public static void main(String[]args){
+        Email em1 = new Email("John", "Smith");
+    }
+}
